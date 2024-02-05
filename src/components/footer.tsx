@@ -1,6 +1,6 @@
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import InstagramIcon from '@mui/icons-material/Instagram';
-import { whatsAppBtn, instragramBtn } from '../index';
+import { whatsAppBtn, instragramBtn } from '../script';
 
 function Footer() {
   return (
